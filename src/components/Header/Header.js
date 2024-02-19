@@ -33,7 +33,7 @@ function Header() {
             </nav>
           </div>
         </div>
-        <h1 className="hero-title">I am Maryam Elmi</h1>
+        <h1 className="hero-title">I am ...</h1>
         <p className="hero-desc">Hello, world!</p>
       </header>
     </>
