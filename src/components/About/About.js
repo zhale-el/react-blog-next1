@@ -6,7 +6,7 @@ function About() {
     <section id="about">
       <div className="about">
         <h2 className="title">About Me</h2>
-        <img class="about-img" src={aboutImage} alt="About" />
+        <img className="about-img" src={aboutImage} alt="About" />
         <p className="info">
           Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
           Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.
